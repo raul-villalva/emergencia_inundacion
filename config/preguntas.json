@@ -1,0 +1,66 @@
+[
+      {
+        "id": "0",
+        "texto": "¿Que es lo primero que hay que hacer en caso de emergencia?",
+        "correcta": "third",
+        "elegida": "",
+        "opcion1": {
+          "texto": "Salir corriendo"
+        },
+        "opcion2": {
+          "texto": "saltar al techo"
+        },
+        "opcion3": {
+          "texto": "Conservar la calma"
+        }
+      },
+      {
+        "id": "1",
+        "texto": "¿Que Servicio hay que deconectar primero?",
+        "correcta": "first",
+        "elegida": "",
+        "opcion1": {
+          "texto": "Luz, Gas y AGua"
+        },
+        "opcion2": {
+          "texto": "Cable e internet"
+        },
+        "opcion3": {
+          "texto": "Linea Telefonica"
+        }
+      },
+      {
+        "id": "2",
+
+        "texto": "¿Cuales son las zonas seguras?",
+        "correcta": "third",
+        "elegida": "",
+        "opcion1": {
+          "texto": "Sotano"
+        },
+        "opcion2": {
+          "texto": "Baño"
+        },
+        "opcion3": {
+          "texto": "Zonas altas"
+        }
+      },
+      {
+        "id": "3",
+
+        "texto": "¿Que hago si me sorprende la inuncacion abajo de mi casa?",
+        "correcta": "third",
+        "elegida": "",
+        "opcion1": {
+          "texto": "Ir a comer"
+        },
+        "opcion2": {
+          "texto": "Bañarme"
+        },
+        "opcion3": {
+          "texto": "Ir a una zona segura"
+        }
+      }
+     
+]
+
